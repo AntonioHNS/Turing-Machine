@@ -1,4 +1,5 @@
 Maquinas de turing:
+
 -Divisão inteira por 2
 -Antecessor
 -Sucessor
